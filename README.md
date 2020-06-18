@@ -5,7 +5,7 @@ The features extracted are scale and rotation invariant that can be used for var
 like image matching, object detection, scene detection, etc.
 
            "IMPLEMENT SIFT BASED FEATURE MATCHING FOR REGISTERING TWO IMAGES"
-					     By,
+					       By,
                                      Shivanand Nalgire,
                             Indian Institute of Technology Bombay 
 			   
