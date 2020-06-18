@@ -1,0 +1,5 @@
+STATISTICAL DATA OF IMPLEMENTATION OF 'SIFT' BASED FEATURES
+
+1) No of descriptors / keypoints of Original image:  942
+2) No of descriptors / keypoints of Test image:  498
+3) No of matches in Original image and Test Image:  338
